@@ -1,5 +1,5 @@
 - Hi, I’m exotic07
 - i do lua
-- pyton/c++
-- my own hub
-- eixotic07#2313
+- im learning pyton/c++
+- mim planing to do my own hub
+- contact me eixotic07#2313
