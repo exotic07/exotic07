@@ -1,0 +1,5 @@
+- Hi, I’m exotic07
+- i do lua
+- pyton/c++
+- my own hub
+- eixotic07#2313
